@@ -1,6 +1,6 @@
 # ตัวตำเนินการทางตรรกะ (Logical Operators)
 username = input("กรุณาใส่ชื่อผู้ใช้: ")
-password = input("กรุณาใส่รหัสผ่าน: ")
+# password = input("กรุณาใส่รหัสผ่าน: ")
 
 # if username == "admin" and password == "1234":
 #     print("เข้าสู่ระบบสำเร็จ!")
