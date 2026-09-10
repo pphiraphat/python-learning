@@ -12,5 +12,5 @@
 # for counter in range(1,6,2): #1-5 โดยเพิ่มขึ้นทีละ 2
 #     print(counter)
 
-for counter in range(10,0,-1):
+for counter in range(10,0,-1): #10-1
     print(counter)
